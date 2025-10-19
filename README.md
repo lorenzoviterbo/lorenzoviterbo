@@ -2,7 +2,7 @@
 
 **`Estudante | Tecnologia, Programação e IA`**
 
-Me chamo Lorenzo Viterbo Souza. Sou um entusiasta dedicado ao estudo de Tecnologia, Programação, Inteligência Artificial (IA) e áreas correlatas. Estou em constante desenvolvimento e busco aplicar meus conhecimentos em projetos práticos. Meu foco é crescer na área de desenvolvimento e inovação.
+Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Programação, Inteligência Artificial (IA) e áreas correlatas. Estou em constante desenvolvimento e busco aplicar meus conhecimentos em projetos práticos. Meu foco é crescer na área de desenvolvimento e inovação.
 
 ### 🤖 Linguagens e Tecnologias
 
