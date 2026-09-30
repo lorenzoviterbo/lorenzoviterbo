@@ -14,6 +14,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -22,6 +23,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -30,6 +32,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -38,6 +41,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -46,6 +50,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -54,6 +59,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -62,6 +68,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -70,6 +77,7 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -82,3 +90,23 @@ Me chamo Lorenzo Viterbo. Sou um entusiasta dedicado ao estudo de Tecnologia, Pr
 <br/>
 <br/>
 
+---
+
+### 🐍 Contribuições de Lorenzo Viterbo
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lorenzoviterbo/lorenzoviterbo/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lorenzoviterbo/lorenzoviterbo/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animação das contribuições de Lorenzo Viterbo"
+      src="https://raw.githubusercontent.com/lorenzoviterbo/lorenzoviterbo/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
